@@ -94,7 +94,7 @@ var color = {
 }
 
 //dusk variables
-const version = "1.5.0";
+const version = '0.1';
 const pre = color.dkBlue() + '[' + color.gray() + 'Dusk' + color.dkBlue() + ']' + color.reset() + ' ';
 var prefix = '!';
 var cd = new Date;
@@ -103,4 +103,26 @@ var text = '';
 const getLang = ModPE.getLanguage();
 
 //module boolean(s)
-//todo
+//settings
+
+//combat
+var aimbot = false;
+var autofood = false;
+var autolog = false;
+var autopot = false;
+var autosword = false;
+var hitbehind = false;
+var hitbox = false;
+var hitjump = false;
+var tpaura = false;
+var fightaura = false;
+var grapple = false;
+var fastEat = false;
+var multiaim = false;
+var armoresp = false;
+var autoclick = false;
+var blockhunt = false;
+var mobaim = false;
+var hoveraura = false;
+var sneakaura = false;
+//offline
