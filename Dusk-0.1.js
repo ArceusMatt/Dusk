@@ -92,3 +92,15 @@ var color = {
         return colors[Math.floor(Math.random() * colors.length)];
     }
 }
+
+//dusk variables
+const version = "1.5.0";
+const pre = color.dkBlue() + '[' + color.gray() + 'Dusk' + color.dkBlue() + ']' + color.reset() + ' ';
+var prefix = '!';
+var cd = new Date;
+var min = cd.getMinutes();
+var text = '';
+const getLang = ModPE.getLanguage();
+
+//module boolean(s)
+//todo
