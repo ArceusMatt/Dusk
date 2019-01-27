@@ -1,0 +1,7 @@
+Instellingen
+Gevecht
+Beweging
+Speler
+Render
+Wereld
+Anders
