@@ -1,0 +1,7 @@
+Einstellungen
+Combat
+Movement
+Spieler
+Render
+Welt
+Verschiedenes
