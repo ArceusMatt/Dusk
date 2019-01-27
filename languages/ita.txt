@@ -1,0 +1,7 @@
+Impostazione
+Combattimento
+Movimento
+Giocatore
+Render
+Mondo
+Altro
