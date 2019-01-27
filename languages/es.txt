@@ -1,0 +1,7 @@
+Ajustes
+Combate
+Movimiento
+Jugador
+Render
+Mundo
+Otro
